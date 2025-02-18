@@ -1,0 +1,10 @@
+{
+  "domain": "energy_contract_cost_calculator",
+  "name": "Energy Contract Cost Calculator",
+  "codeowners": ["@bvweerd"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/energy_contract_cost_calculator",
+  "iot_class": "local_polling",
+  "quality_scale": "bronze",
+  "requirements": []
+}
